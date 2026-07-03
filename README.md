@@ -28,17 +28,17 @@ Users can:
 ## 🧠 Core Technologies
 
 ### Frontend
-- HTML, CSS, JavaScript
-- React.js (optional but recommended)
+-
+- 
 
 ### AI / Computer Vision
-- MediaPipe (Pose / Body Tracking)
-- OpenCV
-- TensorFlow.js (optional)
+- 
+- 
+-
 
 ### Backend (optional)
-- Node.js / Express
-- Python (for AI processing)
+- 
+-
 
 ---
 

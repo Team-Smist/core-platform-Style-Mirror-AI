@@ -82,4 +82,4 @@ MIT License (recommended for student projects)
 
 ## 👨‍💻 Author
 
-Developed by Madhura Ravishan
+Developed by Team Smits

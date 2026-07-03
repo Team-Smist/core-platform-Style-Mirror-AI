@@ -70,13 +70,13 @@ Users can:
 
 ## 🤝 Contribution
 
-This project is open for learning and collaboration. Feel free to fork and improve it.
+This project is open for learning and collaboration For Our Smits Team. Feel free to fork and improve it.
 
 ---
 
 ## 📜 License
 
-MIT License (recommended for student projects)
+
 
 ---
 

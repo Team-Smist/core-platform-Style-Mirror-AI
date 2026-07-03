@@ -1,2 +1,85 @@
-# core-platform-Style-Mirror-AI
-Style Mirror AI is an AI-powered virtual try-on platform that allows users to preview how clothes look on their body in real-time using a camera. The system detects the user’s body, aligns clothing items digitally, and generates a realistic fit visualization to enhance online shopping experience.
+# 👕 Style Mirror AI
+
+Style Mirror AI is a virtual try-on web platform that uses AI and computer vision to simulate how clothes fit on a real person using a camera.
+
+## 🚀 Project Idea
+
+Online shopping often fails because users cannot accurately visualize how clothes will look on their body. This project solves that by using AI-based body detection and virtual fitting.
+
+Users can:
+- Turn on their camera
+- Stand in front of it
+- Select clothing items
+- See real-time virtual outfit fitting on their body
+
+---
+
+## 🎯 Features (Planned / MVP)
+
+- 📷 Real-time camera input
+- 🧍 Human body detection
+- 👕 Virtual clothing overlay
+- 📏 Basic size & fit adjustment
+- 🪞 Mirror-style preview
+- 🖥️ Web-based interface
+
+---
+
+## 🧠 Core Technologies
+
+### Frontend
+- HTML, CSS, JavaScript
+- React.js (optional but recommended)
+
+### AI / Computer Vision
+- MediaPipe (Pose / Body Tracking)
+- OpenCV
+- TensorFlow.js (optional)
+
+### Backend (optional)
+- Node.js / Express
+- Python (for AI processing)
+
+---
+
+## ⚙️ How It Works (Concept)
+
+1. Camera captures user video stream  
+2. AI detects body key points (shoulders, waist, etc.)  
+3. Clothing image is mapped onto body landmarks  
+4. Real-time adjustment based on movement  
+5. Output is rendered as virtual mirror view  
+
+---
+
+## 📦 Project Status
+
+🚧 Currently in early development (MVP stage)
+
+---
+
+## 📌 Future Improvements
+
+- AI-based size recommendation
+- 3D cloth simulation
+- Multi-outfit switching
+- Mobile app version
+- E-commerce integration
+
+---
+
+## 🤝 Contribution
+
+This project is open for learning and collaboration. Feel free to fork and improve it.
+
+---
+
+## 📜 License
+
+MIT License (recommended for student projects)
+
+---
+
+## 👨‍💻 Author
+
+Developed by Madhura Ravishan

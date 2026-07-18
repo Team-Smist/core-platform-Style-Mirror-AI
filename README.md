@@ -27,7 +27,7 @@ Users can:
 
 ## 🧠 Core Technologies
 
-### Frontend
+###
 -
 - 
 
@@ -87,3 +87,4 @@ This project is open for learning and collaboration For Our Smits Team. Feel fre
 # Developed by Team Smits -
 this is a test for starting new thing
 1.Madhura Ravishan Abeywickrama-244004M-Group Member 
+**Madhura Ravishan Abeywickrama** — AI / Computer Vision

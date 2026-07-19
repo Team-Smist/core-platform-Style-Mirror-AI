@@ -88,3 +88,5 @@ This project is open for learning and collaboration For Our Smits Team. Feel fre
 this is a test for starting new thing
 1.Madhura Ravishan Abeywickrama-244004M-Group Member 
 **Madhura Ravishan Abeywickrama** — AI / Computer Vision
+2.Ishara Kariyawasam-244101H-Group Member
+**Ishara Kariyawasam** — Front-End

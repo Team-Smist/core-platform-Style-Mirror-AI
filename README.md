@@ -85,6 +85,8 @@ This project is open for learning and collaboration For Our Smits Team. Feel fre
 
 
 # Developed by Team Smits -
-this is a test for starting new thing
+this is a test for starting new thing.All member should push their name here according to correct workflow
 
-**Sithira Randula Jayasekara - DevOps** 
+**Madhura Ravishan Abeywickrama** 
+**Ishara Kariyawasam** 
+**Sithira Randula Jayasekara**

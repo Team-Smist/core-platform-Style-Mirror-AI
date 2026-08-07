@@ -29,4 +29,76 @@ If you are developing a production application, we recommend enabling type-aware
 }
 ```
 
+
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+=======
+## 🧠 Core Technologies
+
+###
+-
+- 
+
+### AI / Computer Vision
+- 
+- 
+-
+
+### Backend (optional)
+- 
+-
+
+---
+
+## ⚙️ How It Works (Concept)
+
+1. Camera captures user video stream  
+2. AI detects body key points (shoulders, waist, etc.)  
+3. Clothing image is mapped onto body landmarks  
+4. Real-time adjustment based on movement  
+5. Output is rendered as virtual mirror view  
+
+---
+
+## 📦 Project Status
+
+🚧 Currently in early development (MVP stage)
+
+---
+
+## 📌 Future Improvements
+
+- AI-based size recommendation
+- 3D cloth simulation
+- Multi-outfit switching
+- Mobile app version
+- E-commerce integration
+
+---
+
+## 🤝 Contribution
+
+This project is open for learning and collaboration For Our Smits Team. Feel free to fork and improve it.
+
+---
+
+## 📜 License
+
+
+
+---
+
+## 👨‍💻 Author
+
+
+
+## Developed by Team Smits:
+ this is a test for starting new thing.All member should push their name here according to correct workflow.
+
+
+- **Ishara Kariyawasam**
+- **Madhura Ravishan Abeywickrama** 
+- **Sithira Randula Jayasekara**
+- **Sahanmi Wijesiriwardhana**
+- 
+  
+

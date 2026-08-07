@@ -1,30 +1,37 @@
-# 👕 Style Mirror AI
+# React + TypeScript + Vite
 
-Style Mirror AI is a virtual try-on web platform that uses AI and computer vision to simulate how clothes fit on a real person using a camera.
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-## 🚀 Project Idea
+Currently, two official plugins are available:
 
-Online shopping often fails because users cannot accurately visualize how clothes will look on their body. This project solves that by using AI-based body detection and virtual fitting.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-Users can:
-- Turn on their camera
-- Stand in front of it
-- Select clothing items
-- See real-time virtual outfit fitting on their body
+## React Compiler
 
----
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## 🎯 Features (Planned / MVP)
+## Expanding the Oxlint configuration
 
-- 📷 Real-time camera input
-- 🧍 Human body detection
-- 👕 Virtual clothing overlay
-- 📏 Basic size & fit adjustment
-- 🪞 Mirror-style preview
-- 🖥️ Web-based interface
+If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
 
----
+```json
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["react", "typescript", "oxc"],
+  "options": {
+    "typeAware": true
+  },
+  "rules": {
+    "react/rules-of-hooks": "error",
+    "react/only-export-components": ["warn", { "allowConstantExport": true }]
+  }
+}
+```
 
+
+See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+=======
 ## 🧠 Core Technologies
 
 ###
@@ -94,3 +101,4 @@ This project is open for learning and collaboration For Our Smits Team. Feel fre
 - **Sahanmi Wijesiriwardhana**
 - 
   
+
